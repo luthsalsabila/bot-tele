@@ -1,7 +1,7 @@
 import logging
 from telegram.ext import Updater, MessageHandler, Filters, CommandHandler
 
-TOKEN = "MASUKKAN_TOKEN_DISINI"
+TOKEN = "8208041739:AAHUJhFP8zZh8Tz-TzindfCkIrC5lT8l6dc"
 OWNER_ID = 1135074603  # ganti dengan chat ID owner kamu
 
 logging.basicConfig(level=logging.INFO)
